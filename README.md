@@ -1,3 +1,11 @@
+**Environment Variables**:
+    - Create a `.env` file in the project root directory.
+    - Add your OpenAI API key to the `.env` file:
+        ```
+        REACT_APP_API_KEY=your_openai_api_key
+        ```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,8 +1,10 @@
-**Environment Variables**:
+## Setup Instructions
+
+1. **Environment Variables**:
     - Create a `.env` file in the project root directory.
-    - Add your OpenAI API key to the `.env` file:
+    - Add your API key to the `.env` file:
         ```
-        REACT_APP_API_KEY=your_openai_api_key
+        REACT_APP_API_KEY=your_api_key
         ```
 
 
